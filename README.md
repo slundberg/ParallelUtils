@@ -1,4 +1,5 @@
 # ParallelUtils.jl
+[![Build Status](https://travis-ci.org/slundberg/ParallelUtils.jl.svg?branch=master)](https://travis-ci.org/slundberg/ParallelUtils.jl)
 
 Simple utilities for working with parallel computing in Julia.
 
