@@ -4,8 +4,6 @@
 Simple utilities for working with parallel computing in Julia.
 
 ## @ensureworkers
-(from http://stackoverflow.com/questions/27677399/julia-how-to-copy-data-to-another-processor-in-julia)
-
 ```julia
 # unlike addprocs this is idempotent (safe to call multiple times)
 # it also loads ParallelUtils on all the created workers
